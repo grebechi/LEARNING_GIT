@@ -1,2 +1,3 @@
-Oi esse é o meu primeiro commit pelo terminal, estou aprendendo a usar o git de fato!
-commit guiado pela maria, minha tutora
+# Esse é o meu primeiro Repositório no GitHub
+
+Estou aprendendo a utilizar Git e Github diretamente pelo terminal do mac, e criei esse repositório para praticar.
